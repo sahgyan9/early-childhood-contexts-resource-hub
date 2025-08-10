@@ -244,7 +244,7 @@ const culturalContexts: PageContent = {
             media: [
                 { type: "media", title: "Little J & Big Cuz", authorOrSource: "NITV", description: "Animated series about First Nations culture.", url: "https://iview.abc.net.au/show/little-j-and-big-cuz" },
                 { type: "media", title: "Play School - Harmony Day Special", authorOrSource: "Play School", description: "Celebrates Cultural diversity in Australia.", url: "https://iview.abc.net.au/video/CH1902H008S00" },
-                { type: "media", title: "Sesame Street Global Grover series", authorOrSource: "Sesame Street", description: "Looks at world customs.", url: "https://www.youtube.com/watch?v=sYpr3f5oXaQ" },
+                { type: "media", title: "Sesame Street Global Grover series", authorOrSource: "Sesame Street", description: "Looks at world customs.", url: "https://www.youtube.com/watch?v=Rjr2A9jLRGQ&list=PLj2q3ZYlVyfvMJhAhY5aS4p-59EC82VF7" },
                 { type: "media", title: "Behind the News - Refugee Week Segments", authorOrSource: "Behind the News", description: "Age-appropriate current affairs coverage on 'Refugee Week Segments'.", url: "https://www.abc.net.au/btn/classroom/refugee-week/12349272" }
             ]
         }
