@@ -1,4 +1,3 @@
-
 import { PageContent, Reference } from '../types';
 import { HomeIcon, EconomyIcon, SocialIcon, DiversityIcon, HealthIcon, CrisisIcon, ResourcesIcon, ConclusionIcon } from '../components/icons';
 
@@ -107,9 +106,9 @@ const economicContexts: PageContent = {
                 { type: "book", title: "The Teddy Bear", authorOrSource: "David McPhail", year: 2002, description: "Kindness and sharing." }
             ],
             media: [
-                { type: "media", title: "Sesame Street - Growing Hope Against Hunger", authorOrSource: "Sesame Street", description: "Learns to have empathy and help support the community.", url: "https://www.youtube.com/watch?v=vhJ6hfbn4x8" },
+                { type: "media", title: "Sesame Street for Babies", authorOrSource: "Sesame Street", description: "Sesame Street for Babies.", url: "https://m.youtube.com/watch?v=1Ym3qq0KSIo&pp=ygUYc2VzYW1lIHN0cmVldCBmb3IgYmFiaWVz" },
                 { type: "media", title: "Play School Community Pantry Episode", authorOrSource: "Play School", description: "Enjoys the ideas of sharing and caring for food.", url: "https://iview.abc.net.au/video/CH2202H016S00" },
-                { type: "media", title: "Daniel Tiger's Neighborhood: Daniel’s Lunch", authorOrSource: "Daniel Tiger's Neighborhood", description: "Models empathy and inclusion.", url: "https://www.youtube.com/watch?v=K6H_sIJy7mI" },
+                { type: "media", title: "Daniel Tiger's Neighborhood: Daniel’s Lunch", authorOrSource: "Daniel Tiger's Neighborhood", description: "Models empathy and inclusion.", url: "https://m.youtube.com/watch?v=pYE1isaHuPc&pp=ygUpZGFuaWVsIHRpZ2VyJ3MgbmVpZ2hib3Job29kIGRhbmllbHMgbHVuY2g%3D" },
                 { type: "media", title: "Little Yarns – Caring for Each Other", authorOrSource: "ABC Kids", description: "An ABC Kids podcast celebrating community care.", url: "https://www.abc.net.au/kidslisten/programs/little-yarns/" }
             ]
         }
@@ -176,8 +175,8 @@ const socialContexts: PageContent = {
             ],
             media: [
                 { type: "media", title: "Play School, Special Families Episodes", authorOrSource: "Play School", description: "Shows different kinds of families.", url: "https://iview.abc.net.au/show/play-school-my-family-your-family" },
-                { type: "media", title: "Bluey - Grandad Episode", authorOrSource: "Bluey", description: "Discusses intergenerational relations.", url: "https://iview.abc.net.au/video/CH1903V029S00" },
-                { type: "media", title: "Sesame Street Divorce Toolkit", authorOrSource: "Sesame Street", description: "Aids children to cope with the changes affecting the family.", url: "https://www.sesamestreet.org/toolkits/divorce" },
+                { type: "media", title: "Bluey - Grandad Full Episode", authorOrSource: "Bluey", description: "Discusses intergenerational relations.", url: "https://m.youtube.com/watch?v=cfRtqXFAX2I&pp=ygUaYmx1ZXkgZ3JhbmRhZCBmdWxsIGVwaXNvZGU%3D" },
+                { type: "media", title: "Sesame Street Divorce Toolkit", authorOrSource: "Sesame Street", description: "Aids children to cope with the changes affecting the family.", url: "https://m.youtube.com/watch?v=X_Wvo17EOiA&pp=ygUdU2VzYW1lIHN0cmVldCBkaXZvcmNlIHRvb2xraXQ%3D" },
                 { type: "media", title: "ABC Children Listen - Imagine This Podcast", authorOrSource: "ABC", description: "Stimulates inquisitiveness, dialogue.", url: "https://www.abc.net.au/kidslisten/programs/imagine-this/" }
             ]
         }
@@ -242,9 +241,9 @@ const culturalContexts: PageContent = {
                 { type: "book", title: "Why I Love Australia", authorOrSource: "Bronwyn Bancroft", year: 2010, description: "A celebration of Australia by Indigenous art in terms of land." }
             ],
             media: [
-                { type: "media", title: "Little J & Big Cuz", authorOrSource: "NITV", description: "Animated series about First Nations culture.", url: "https://iview.abc.net.au/show/little-j-and-big-cuz" },
-                { type: "media", title: "Play School - Harmony Day Special", authorOrSource: "Play School", description: "Celebrates Cultural diversity in Australia.", url: "https://iview.abc.net.au/video/CH1902H008S00" },
-                { type: "media", title: "Sesame Street Global Grover series", authorOrSource: "Sesame Street", description: "Looks at world customs.", url: "https://youtu.be/Rjr2A9jLRGQ?list=PLj2q3ZYlVyfvMJhAhY5aS4p-59EC82VF7" },
+                { type: "media", title: "Little J & Big Cuz", authorOrSource: "NITV", description: "Animated series about First Nations culture.", url: "https://m.youtube.com/playlist?list=PL3cuFxa0tr8YvCQ1usTK3Z3RnJnQhyR99" },
+                { type: "media", title: "Play School - Harmony Day Special", authorOrSource: "Play School", description: "Celebrates Cultural diversity in Australia.", url: "https://m.youtube.com/watch?v=rQU_6O6Q5Q0&pp=ygUgUGxheSBzY2hvb2wgaGFybW9ueSBkYXkgc3BlY2lhbCA%3D" },
+                { type: "media", title: "Sesame Street Global Grover series", authorOrSource: "Sesame Street", description: "Looks at world customs.", url: "https://m.youtube.com/playlist?list=PL2lLOiiSO0gV3wx4jLfPtQufApZu1jspw" },
                 { type: "media", title: "Behind the News - Refugee Week Segments", authorOrSource: "Behind the News", description: "Age-appropriate current affairs coverage on 'Refugee Week Segments'.", url: "https://www.abc.net.au/btn/classroom/refugee-week/12349272" }
             ]
         }
