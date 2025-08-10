@@ -3,50 +3,50 @@ import { PageContent, Reference } from '../types';
 import { HomeIcon, EconomyIcon, SocialIcon, DiversityIcon, HealthIcon, CrisisIcon, ResourcesIcon, ConclusionIcon } from '../components/icons';
 
 export const introContent = {
-  heroTitle: "Supporting Today's Children, Shaping Tomorrow's Future",
-  heroSubtitle: "A resource hub for Australian early childhood educators to navigate the complex contexts of modern family and community life.",
-  title: "Working with Children, Families, and Communities in Contemporary Society",
-  subtitle: "A Professional Development and Reference Tool",
-  introduction: [
-    "The early childhood ages are a time in the development of the body, mind, emotional and social aspects that show rapid growth. What takes place at this stage determines lifelong learning, health, and well-being. The impact of the settings within which children develop, such as the family, community, and the larger socio-economic and cultural environments, is conclusively determinant of development outcomes (Bronfenbrenner, 1979; McLachlan et al., 2018).",
-    "The families turning up in Australia are of various profiles in terms of background, available resources and difficulties. The multicultural character of the country, along with the diversity of the geographical location and current social movement, implies that early childhood professionals must face a broad variety of contexts in the process of assisting children and families. Such contexts are dynamic, and they change according to social policy shifts, the fixture of the economy, environmental changes and the way a community operates. These complexities are important to understand, so the educators can offer equitable, inclusive, and responsive services (Department of Education, 2023).",
-    "This resource is created to be a professional development and reference tool to early childhood educators, leaders, policymakers and community workers. It seeks to deal with the variety, intricacy and struggle that children face in Australia within five interrelated contexts: Economic Conditions, Social Contexts, Contexts of Culture and Diversity, Contexts of Health and Wellbeing, and Crisis and Emergency Contexts."
-  ],
-  relevance: [
-    "Early childhood education happens in a vacuum. Learning and development of children occur within the social systems, and how they turn out depends on interactions within their system (Bronfenbrenner, 1979). By making themselves aware of the impacts of socio-economic factors, cultural identity, health, and environmental soundness, educators can modify their pedagogical approaches to integrate the issues that better reflect the needs of the individuals, support resilience in children, and effect changes in the system regarding child well-being.",
-    "As an example, a teacher dealing with a child with housing instability will need to have knowledge not only about the learning effects that recent living conditions are likely to have on them, including fatigue or impaired concentration, but also about available policy options, e.g. rental subsidies or homeless assistance (Phillips & Gray, 2022). On the same note, knowledge about cultural contexts enables teachers to integrate good practices that validate identity and belonging (DEEWR, 2009)."
-  ],
-  purpose: [
-    { title: "Knowledge Development", description: "Creatively serving to offer in-depth, evidence-based information on the influence that different contexts on children and families have." },
-    { title: "Professional Guidance", description: "In an attempt to provide practical measures that may be adopted in early childhood services." },
-    { title: "Policy Awareness", description: "To make educators aware of applicable Australian policies and programs." },
-    { title: "Resource Sharing", description: "To list suggested books, media, and professional organisations that assist in practice." },
-    { title: "Partnership Building", description: "To show the potential to collaborate between the educators, families, and community organisations." }
-  ],
-  navigation: {
-    intro: "The resource is divided into several main content pages:",
-    pages: [
-      { title: "Home / Introduction", description: "Overview and navigation guidance.", link: "/" },
-      { title: "Economic Contexts", description: "Financial hardship and its effects on families.", link: "/economic" },
-      { title: "Social Contexts", description: "Isolation, family separation, and child protection issues.", link: "/social" },
-      { title: "Cultural and Diversity Contexts", description: "First Nations, immigrant, and refugee experiences.", link: "/cultural" },
-      { title: "Health and Wellbeing Contexts", description: "Parental mental health, trauma, and abuse.", link: "/health" },
-      { title: "Crisis and Emergency Contexts", description: "Disasters, violence, and displacement.", link: "/crisis" },
-      { title: "Conclusion", description: "A summary of the key themes and takeaways from the resource.", link: "/conclusion" },
-      { title: "References", description: "A complete list of sources cited in APA 7th style.", link: "/references" }
+    heroTitle: "Supporting Today's Children, Shaping Tomorrow's Future",
+    heroSubtitle: "A resource hub for Australian early childhood educators to navigate the complex contexts of modern family and community life.",
+    title: "Working with Children, Families, and Communities in Contemporary Society",
+    subtitle: "A Professional Development and Reference Tool",
+    introduction: [
+        "The early childhood ages are a time in the development of the body, mind, emotional and social aspects that show rapid growth. What takes place at this stage determines lifelong learning, health, and well-being. The impact of the settings within which children develop, such as the family, community, and the larger socio-economic and cultural environments, is conclusively determinant of development outcomes (Bronfenbrenner, 1979; McLachlan et al., 2018).",
+        "The families turning up in Australia are of various profiles in terms of background, available resources and difficulties. The multicultural character of the country, along with the diversity of the geographical location and current social movement, implies that early childhood professionals must face a broad variety of contexts in the process of assisting children and families. Such contexts are dynamic, and they change according to social policy shifts, the fixture of the economy, environmental changes and the way a community operates. These complexities are important to understand, so the educators can offer equitable, inclusive, and responsive services (Department of Education, 2023).",
+        "This resource is created to be a professional development and reference tool to early childhood educators, leaders, policymakers and community workers. It seeks to deal with the variety, intricacy and struggle that children face in Australia within five interrelated contexts: Economic Conditions, Social Contexts, Contexts of Culture and Diversity, Contexts of Health and Wellbeing, and Crisis and Emergency Contexts."
     ],
-    structure: "Each context page is structured under the following headings: Understanding the Context, Impact on Children and Families, Social Policy and Australian Responses, Strategies for Practice, Community and Professional Partnerships, and Resources for Educators and Children."
-  },
-  framework: {
-    intro: "This resource draws on several sociological and developmental theories:",
-    theories: [
-      { name: "The Ecological Systems Theory of Bronfenbrenner", description: "Outlines the mutually dependent strata of the environment of the child." },
-      { name: "Maslow’s Hierarchy of Needs", description: "The focus was on achieving basic needs first to have higher-order learning." },
-      { name: "The attachment theory (Bowlby, 1969)", description: "Emphasises the importance of secure relationships to healthy development." },
-      { name: "Resilience Theory", description: "Emphasizes protective factors and strengths which promote recovery from felt adversity." },
-      { name: "Social Learning Theory (Bandura, 1977)", description: "The theory demonstrates the process of children acquiring behaviours by learning what to observe and dealing with them." }
-    ]
-  }
+    relevance: [
+        "Early childhood education happens in a vacuum. Learning and development of children occur within the social systems, and how they turn out depends on interactions within their system (Bronfenbrenner, 1979). By making themselves aware of the impacts of socio-economic factors, cultural identity, health, and environmental soundness, educators can modify their pedagogical approaches to integrate the issues that better reflect the needs of the individuals, support resilience in children, and effect changes in the system regarding child well-being.",
+        "As an example, a teacher dealing with a child with housing instability will need to have knowledge not only about the learning effects that recent living conditions are likely to have on them, including fatigue or impaired concentration, but also about available policy options, e.g. rental subsidies or homeless assistance (Phillips & Gray, 2022). On the same note, knowledge about cultural contexts enables teachers to integrate good practices that validate identity and belonging (DEEWR, 2009)."
+    ],
+    purpose: [
+        { title: "Knowledge Development", description: "Creatively serving to offer in-depth, evidence-based information on the influence that different contexts on children and families have." },
+        { title: "Professional Guidance", description: "In an attempt to provide practical measures that may be adopted in early childhood services." },
+        { title: "Policy Awareness", description: "To make educators aware of applicable Australian policies and programs." },
+        { title: "Resource Sharing", description: "To list suggested books, media, and professional organisations that assist in practice." },
+        { title: "Partnership Building", description: "To show the potential to collaborate between the educators, families, and community organisations." }
+    ],
+    navigation: {
+        intro: "The resource is divided into several main content pages:",
+        pages: [
+            { title: "Home / Introduction", description: "Overview and navigation guidance.", link: "/" },
+            { title: "Economic Contexts", description: "Financial hardship and its effects on families.", link: "/economic" },
+            { title: "Social Contexts", description: "Isolation, family separation, and child protection issues.", link: "/social" },
+            { title: "Cultural and Diversity Contexts", description: "First Nations, immigrant, and refugee experiences.", link: "/cultural" },
+            { title: "Health and Wellbeing Contexts", description: "Parental mental health, trauma, and abuse.", link: "/health" },
+            { title: "Crisis and Emergency Contexts", description: "Disasters, violence, and displacement.", link: "/crisis" },
+            { title: "Conclusion", description: "A summary of the key themes and takeaways from the resource.", link: "/conclusion" },
+            { title: "References", description: "A complete list of sources cited in APA 7th style.", link: "/references" }
+        ],
+        structure: "Each context page is structured under the following headings: Understanding the Context, Impact on Children and Families, Social Policy and Australian Responses, Strategies for Practice, Community and Professional Partnerships, and Resources for Educators and Children."
+    },
+    framework: {
+        intro: "This resource draws on several sociological and developmental theories:",
+        theories: [
+            { name: "The Ecological Systems Theory of Bronfenbrenner", description: "Outlines the mutually dependent strata of the environment of the child." },
+            { name: "Maslow’s Hierarchy of Needs", description: "The focus was on achieving basic needs first to have higher-order learning." },
+            { name: "The attachment theory (Bowlby, 1969)", description: "Emphasises the importance of secure relationships to healthy development." },
+            { name: "Resilience Theory", description: "Emphasizes protective factors and strengths which promote recovery from felt adversity." },
+            { name: "Social Learning Theory (Bandura, 1977)", description: "The theory demonstrates the process of children acquiring behaviours by learning what to observe and dealing with them." }
+        ]
+    }
 };
 
 const economicContexts: PageContent = {
@@ -406,99 +406,99 @@ export const conclusionContent: string[] = [
 ];
 
 export const referencesContent: Reference[] = [
-    { 
-        key: "abs2022", 
-        citation: "Australian Bureau of Statistics. (2022). <em>Personal safety, Australia</em> (Catalogue No. 4906.0).", 
-        url: "https://www.abs.gov.au/statistics/people/crime-and-justice/personal-safety-australia" 
+    {
+        key: "abs2022",
+        citation: "Australian Bureau of Statistics. (2022). <em>Personal safety, Australia</em> (Catalogue No. 4906.0).",
+        url: "https://www.abs.gov.au/statistics/people/crime-and-justice/personal-safety-australia"
     },
-    { 
-        key: "acoss2022", 
-        citation: "Australian Council of Social Service. (2022). <em>Poverty in Australia 2022: A snapshot</em>. ACOSS.", 
-        url: "https://www.acoss.org.au/poverty" 
+    {
+        key: "acoss2022",
+        citation: "Australian Council of Social Service. (2022). <em>Poverty in Australia 2022: A snapshot</em>. ACOSS.",
+        url: "https://www.acoss.org.au/poverty"
     },
-    { 
-        key: "homeaffairs2018", 
-        citation: "Australian Government Department of Home Affairs. (2018). <em>National disaster risk reduction framework</em>.", 
-        url: "https://www.homeaffairs.gov.au/emergency/files/national-disaster-risk-reduction-framework.pdf" 
+    {
+        key: "homeaffairs2018",
+        citation: "Australian Government Department of Home Affairs. (2018). <em>National disaster risk reduction framework</em>.",
+        url: "https://www.homeaffairs.gov.au/emergency/files/national-disaster-risk-reduction-framework.pdf"
     },
-    { 
-        key: "dss2022", 
-        citation: "Australian Government Department of Social Services. (2022). <em>National plan to end violence against women and children 2022–2032</em>.", 
-        url: "https://www.dss.gov.au/" 
+    {
+        key: "dss2022",
+        citation: "Australian Government Department of Social Services. (2022). <em>National plan to end violence against women and children 2022–2032</em>.",
+        url: "https://www.dss.gov.au/"
     },
-    { 
-        key: "ahrc2021", 
-        citation: "Australian Human Rights Commission. (2021). <em>Wiyi Yani U Thangani (Women’s voices): Securing our rights, securing our future report</em>.", 
-        url: "https://humanrights.gov.au/our-work/aboriginal-and-torres-strait-islander-social-justice/publications/wiyi-yani-u-thangani" 
+    {
+        key: "ahrc2021",
+        citation: "Australian Human Rights Commission. (2021). <em>Wiyi Yani U Thangani (Women’s voices): Securing our rights, securing our future report</em>.",
+        url: "https://humanrights.gov.au/our-work/aboriginal-and-torres-strait-islander-social-justice/publications/wiyi-yani-u-thangani"
     },
-    { 
-        key: "bandura1977", 
-        citation: "Bandura, A. (1977). <em>Social learning theory</em>. Prentice-Hall." 
+    {
+        key: "bandura1977",
+        citation: "Bandura, A. (1977). <em>Social learning theory</em>. Prentice-Hall."
     },
-    { 
-        key: "benevolent2023", 
-        citation: "Benevolent Society. (2023). <em>Family support services</em>.", 
-        url: "https://www.benevolent.org.au" 
+    {
+        key: "benevolent2023",
+        citation: "Benevolent Society. (2023). <em>Family support services</em>.",
+        url: "https://www.benevolent.org.au"
     },
-    { 
-        key: "bowlby1969", 
-        citation: "Bowlby, J. (1969). <em>Attachment and loss: Vol. 1. Attachment</em>. Basic Books." 
+    {
+        key: "bowlby1969",
+        citation: "Bowlby, J. (1969). <em>Attachment and loss: Vol. 1. Attachment</em>. Basic Books."
     },
-    { 
-        key: "bronfenbrenner1979", 
-        citation: "Bronfenbrenner, U. (1979). <em>The ecology of human development: Experiments by nature and design</em>. Harvard University Press." 
+    {
+        key: "bronfenbrenner1979",
+        citation: "Bronfenbrenner, U. (1979). <em>The ecology of human development: Experiments by nature and design</em>. Harvard University Press."
     },
-    { 
-        key: "bom2022", 
-        citation: "Bureau of Meteorology. (2022). <em>State of the climate 2022</em>. Australian Government.", 
-        url: "http://www.bom.gov.au/state-of-the-climate/" 
+    {
+        key: "bom2022",
+        citation: "Bureau of Meteorology. (2022). <em>State of the climate 2022</em>. Australian Government.",
+        url: "http://www.bom.gov.au/state-of-the-climate/"
     },
-    { 
-        key: "education2023", 
-        citation: "Department of Education. (2023). <em>Early childhood education policy and programs</em>. Australian Government.", 
-        url: "https://www.education.gov.au/" 
+    {
+        key: "education2023",
+        citation: "Department of Education. (2023). <em>Early childhood education policy and programs</em>. Australian Government.",
+        url: "https://www.education.gov.au/"
     },
-    { 
-        key: "deewr2009", 
-        citation: "Department of Education, Employment and Workplace Relations (DEEWR). (2009). <em>Belonging, being and becoming: The Early Years Learning Framework for Australia</em>. Australian Government." 
+    {
+        key: "deewr2009",
+        citation: "Department of Education, Employment and Workplace Relations (DEEWR). (2009). <em>Belonging, being and becoming: The Early Years Learning Framework for Australia</em>. Australian Government."
     },
-    { 
-        key: "foundationhouse2020", 
-        citation: "Foundation House. (2020). <em>Schools in for refugees: Whole-school guide to refugee readiness</em>. Victorian Foundation for Survivors of Torture.", 
-        url: "https://foundationhouse.org.au/" 
+    {
+        key: "foundationhouse2020",
+        citation: "Foundation House. (2020). <em>Schools in for refugees: Whole-school guide to refugee readiness</em>. Victorian Foundation for Survivors of Torture.",
+        url: "https://foundationhouse.org.au/"
     },
-    { 
-        key: "kidshelpline2023", 
-        citation: "Kids Helpline. (2023). <em>Free counselling service for children and young people</em>.", 
-        url: "https://kidshelpline.com.au/" 
+    {
+        key: "kidshelpline2023",
+        citation: "Kids Helpline. (2023). <em>Free counselling service for children and young people</em>.",
+        url: "https://kidshelpline.com.au/"
     },
-    { 
-        key: "mclachlan2018", 
-        citation: "McLachlan, C., Fleer, M., & Edwards, S. (2018). <em>Early childhood curriculum: Planning, assessment and implementation</em> (3rd ed.). Cambridge University Press." 
+    {
+        key: "mclachlan2018",
+        citation: "McLachlan, C., Fleer, M., & Edwards, S. (2018). <em>Early childhood curriculum: Planning, assessment and implementation</em> (3rd ed.). Cambridge University Press."
     },
-    { 
-        key: "masten2012", 
-        citation: "Masten, A. S., & Narayan, A. J. (2012). Child development in the context of disaster, war, and terrorism: Pathways of risk and resilience. <em>Annual Review of Psychology, 63</em>(1), 227–257.", 
-        url: "https://doi.org/10.1146/annurev-psych-120710-100356" 
+    {
+        key: "masten2012",
+        citation: "Masten, A. S., & Narayan, A. J. (2012). Child development in the context of disaster, war, and terrorism: Pathways of risk and resilience. <em>Annual Review of Psychology, 63</em>(1), 227–257.",
+        url: "https://doi.org/10.1146/annurev-psych-120710-100356"
     },
-    { 
-        key: "parkes2015", 
-        citation: "Parkes, A., Sweeting, H., & Wight, D. (2025). Parenting stress and parent support among mothers with high and low education. <em>Journal of Family Issues, 36</em>(3), 351–370.", 
-        url: "https://doi.org/10.1177/0192513X13490281" 
+    {
+        key: "parkes2015",
+        citation: "Parkes, A., Sweeting, H., & Wight, D. (2025). Parenting stress and parent support among mothers with high and low education. <em>Journal of Family Issues, 36</em>(3), 351–370.",
+        url: "https://doi.org/10.1177/0192513X13490281"
     },
-    { 
-        key: "phillips2022", 
-        citation: "Phillips, R., & Gray, S. (2022). Housing instability and its impact on early childhood development in Australia. <em>Australian Journal of Early Childhood, 47</em>(1), 35–48.", 
-        url: "https://doi.org/10.1177/18369391211054867" 
+    {
+        key: "phillips2022",
+        citation: "Phillips, R., & Gray, S. (2022). Housing instability and its impact on early childhood development in Australia. <em>Australian Journal of Early Childhood, 47</em>(1), 35–48.",
+        url: "https://doi.org/10.1177/18369391211054867"
     },
-    { 
-        key: "snaicc2020", 
-        citation: "Secretariat of National Aboriginal and Islander Child Care. (2020). <em>The Family Matters Report 2020</em>. SNAICC.", 
-        url: "https://www.familymatters.org.au/" 
+    {
+        key: "snaicc2020",
+        citation: "Secretariat of National Aboriginal and Islander Child Care. (2020). <em>The Family Matters Report 2020</em>. SNAICC.",
+        url: "https://www.familymatters.org.au/"
     },
-    { 
-        key: "unicef2021", 
-        citation: "UNICEF Australia. (2021). <em>The impact of climate change on children in Australia</em>.", 
-        url: "https://www.unicef.org.au" 
+    {
+        key: "unicef2021",
+        citation: "UNICEF Australia. (2021). <em>The impact of climate change on children in Australia</em>.",
+        url: "https://www.unicef.org.au"
     }
 ];
