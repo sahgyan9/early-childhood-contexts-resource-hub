@@ -107,9 +107,9 @@ const economicContexts: PageContent = {
                 { type: "book", title: "The Teddy Bear", authorOrSource: "David McPhail", year: 2002, description: "Kindness and sharing." }
             ],
             media: [
-                { type: "media", title: "Sesame Street - Growing Hope Against Hunger", authorOrSource: "Sesame Street", description: "Learns to have empathy and help support the community.", url: "https://www.youtube.com/watch?v=I5Q_shF_5N8" },
+                { type: "media", title: "Sesame Street - Growing Hope Against Hunger", authorOrSource: "Sesame Street", description: "Learns to have empathy and help support the community.", url: "https://www.youtube.com/watch?v=vhJ6hfbn4x8" },
                 { type: "media", title: "Play School Community Pantry Episode", authorOrSource: "Play School", description: "Enjoys the ideas of sharing and caring for food.", url: "https://iview.abc.net.au/video/CH2202H016S00" },
-                { type: "media", title: "Daniel Tiger's Neighborhood: Daniel’s Lunch", authorOrSource: "Daniel Tiger's Neighborhood", description: "Models empathy and inclusion.", url: "https://www.youtube.com/watch?v=f-9Tj7s3s_0" },
+                { type: "media", title: "Daniel Tiger's Neighborhood: Daniel’s Lunch", authorOrSource: "Daniel Tiger's Neighborhood", description: "Models empathy and inclusion.", url: "https://www.youtube.com/watch?v=K6H_sIJy7mI" },
                 { type: "media", title: "Little Yarns – Caring for Each Other", authorOrSource: "ABC Kids", description: "An ABC Kids podcast celebrating community care.", url: "https://www.abc.net.au/kidslisten/programs/little-yarns/" }
             ]
         }
