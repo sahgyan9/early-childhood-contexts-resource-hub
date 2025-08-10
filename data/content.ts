@@ -308,7 +308,7 @@ const healthWellbeingContexts: PageContent = {
                 { type: "book", title: "When Sophie Gets Angry - Really, Really Angry...", authorOrSource: "Molly Bang", year: 1999, description: "Learns control of emotions." }
             ],
             media: [
-                { type: "media", title: "Sesame Street - Traumatic Experiences Resources", authorOrSource: "Sesame Street", description: "Resources tools to help children in traumatic situations.", url: "https://www.sesamestreet.org/toolkits/traumaticexperiences" },
+                { type: "media", title: "Sesame Street - Traumatic Experiences Resources", authorOrSource: "Sesame Street", description: "Resources tools to help children in traumatic situations.", url: "https://m.youtube.com/watch?v=65rz2wGwaDU&pp=ygUuU2VzYW1lIHN0cmVldCB0cmF1bWF0aWMgZXhwZXJpZW5jZXMgcmVzb3VyY2VzIA%3D%3D" },
                 { type: "media", title: "Bluey – Sleepytime Episode", authorOrSource: "Bluey", description: "Promotes emotional security and predictability.", url: "https://iview.abc.net.au/video/CH1903V039S00" },
                 { type: "media", title: "ABC Kids Listen - Mindfully Musical", authorOrSource: "ABC Kids Listen", description: "Music with mindful practice.", url: "https://www.abc.net.au/kidslisten/programs/mindfully-musical/" },
                 { type: "media", title: "Cosmic Kids Yoga", authorOrSource: "Cosmic Kids", description: "Online/on-demand children’s yoga and mindfulness programs.", url: "https://www.youtube.com/c/CosmicKidsYoga" }
@@ -379,7 +379,7 @@ const crisisEmergencyContexts: PageContent = {
                 { type: "media", title: "Play School Bushfire Special", authorOrSource: "Play School", description: "Helps children deal with the experience of a natural disaster.", url: "https://iview.abc.net.au/show/play-school-hello-friends" },
                 { type: "media", title: "Emergency preparedness – Sesame Street", authorOrSource: "Sesame Street", description: "Teaches the importance of safety in friendly ways.", url: "https://www.sesamestreet.org/toolkits/emergency" },
                 { type: "media", title: "BTN - Natural Disasters Segments", authorOrSource: "Behind the News", description: "Age-appropriate explanations of the events of disasters.", url: "https://www.abc.net.au/btn/classroom/natural-disasters/10534928" },
-                { type: "media", title: "Little J & Big Cuz Community Safety Episodes", authorOrSource: "Little J & Big Cuz", description: "Community Safety Awareness in a First Nations Environment.", url: "https://www.youtube.com/watch?v=RMaG8h2m8MA" }
+                { type: "media", title: "Little J & Big Cuz Community Safety Episodes", authorOrSource: "Little J & Big Cuz", description: "Community Safety Awareness in a First Nations Environment.", url: "https://m.youtube.com/watch?v=okYpoflOqao&pp=ygUmTGl0dGxlIGogYW5kIGJpZyBjdXogY29tbXVuaXR5IHNhZmV0eSA%3D" }
             ]
         }
     }
